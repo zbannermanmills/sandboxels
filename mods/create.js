@@ -190,7 +190,7 @@ elementWorth = {
     "liquid_light": 0.1,
     "flash": 0,
     "radiation": 0,
-    "petal": -1,
+    "petal": 100000,
     "cell": -1,
     "cancer": -1,
     "foam": -1,
